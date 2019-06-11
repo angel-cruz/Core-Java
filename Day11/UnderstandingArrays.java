@@ -41,7 +41,6 @@ public class UnderstandingArrays {
 		System.out.println("ADD WITH THREE PARAMS");
 		return a + b + c;
 	}
-	
 	/*
 	 * VAR ARGS - a feature of Java that allows us to take in 
 	 * a varying amount of the same datatype as a parameter to a method
